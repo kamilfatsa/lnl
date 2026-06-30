@@ -1,5 +1,5 @@
 <img src="lnl.png" width="300">
-![L&L](lnl.png)
+
 # L&L
 L&L (Lore and Literature) is a workflow for creating interactive narratives through lore. It can take the form of a game, visual novel, or any other format. (2025-12-28)
 
